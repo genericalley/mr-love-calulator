@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d48001873ccede64f3848a5ef37e89c1",
+    "revision": "ac2bc20b3644097f80fdd8a02d60417b",
     "url": "/mr-love-calulator/index.html"
   },
   {
-    "revision": "89b00e6879b952c59982",
+    "revision": "172682dee6bfaff3e5ec",
     "url": "/mr-love-calulator/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mr-love-calulator/static/js/2.3a0fec63.chunk.js"
   },
   {
-    "revision": "89b00e6879b952c59982",
-    "url": "/mr-love-calulator/static/js/main.352a8f36.chunk.js"
+    "revision": "172682dee6bfaff3e5ec",
+    "url": "/mr-love-calulator/static/js/main.37c7b876.chunk.js"
   },
   {
     "revision": "8eac044eb989ebfe6509",
