@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mr-love-calulator/static/css/main.34de6062.chunk.css",
+    "main.js": "/mr-love-calulator/static/js/main.352a8f36.chunk.js",
+    "main.js.map": "/mr-love-calulator/static/js/main.352a8f36.chunk.js.map",
+    "runtime~main.js": "/mr-love-calulator/static/js/runtime~main.90ccea8b.js",
+    "runtime~main.js.map": "/mr-love-calulator/static/js/runtime~main.90ccea8b.js.map",
+    "static/js/2.3a0fec63.chunk.js": "/mr-love-calulator/static/js/2.3a0fec63.chunk.js",
+    "static/js/2.3a0fec63.chunk.js.map": "/mr-love-calulator/static/js/2.3a0fec63.chunk.js.map",
+    "index.html": "/mr-love-calulator/index.html",
+    "precache-manifest.97c8be29e5004b40eb821218f63636e3.js": "/mr-love-calulator/precache-manifest.97c8be29e5004b40eb821218f63636e3.js",
+    "service-worker.js": "/mr-love-calulator/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/mr-love-calulator/static/css/main.34de6062.chunk.css.map"
+  }
+}
